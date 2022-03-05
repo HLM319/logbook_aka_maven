@@ -21,7 +21,7 @@
             </goals>
             <configuration>
               <sources>
-                <source>src/main</source>
+                <source>logbook/main</source>
               </sources>
             </configuration>
           </execution>
@@ -39,7 +39,7 @@
             </goals>
             <configuration>
               <sourceDirs>
-                <sourceDir>src/main</sourceDir>
+                <sourceDir>logbook/main</sourceDir>
               </sourceDirs>
             </configuration>
           </execution>
