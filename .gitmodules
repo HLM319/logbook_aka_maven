@@ -1,0 +1,3 @@
+[submodule "logbook"]
+	path = logbook
+	url = https://github.com/noratako5/logbook.git
